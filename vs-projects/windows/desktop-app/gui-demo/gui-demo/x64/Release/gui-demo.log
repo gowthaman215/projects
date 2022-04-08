@@ -1,0 +1,6 @@
+﻿  gui-demo.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  gui-demo.vcxproj -> C:\E5585437\GIT\projects\vs-projects\windows\desktop-app\gui-demo\x64\Release\gui-demo.exe
